@@ -1,3 +1,3 @@
-# sqlalchemy-challenge
+# sqlalchemy-challenge - SURF UP !
 ![surf](https://cdn.hovia.com/app/uploads/retro-surf-mural-wallpaper-Plain.jpg)
 
